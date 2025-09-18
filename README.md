@@ -1,4 +1,11 @@
-# Stock Analysis Dashboard - React Edition
+# 📈 Stock Analysis Dashboard - React Edition
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![React](https://img.shields.io/badge/React-18.2.0-blue.svg)](https://reactjs.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.104.0-green.svg)](https://fastapi.tiangolo.com/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0.0-blue.svg)](https://www.typescriptlang.org/)
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.3.0-38B2AC.svg)](https://tailwindcss.com/)
 
 A modern, responsive stock analysis and forecasting dashboard built with React and FastAPI. This is a React-based clone of the original Streamlit application with enhanced UI/UX and better performance.
 
